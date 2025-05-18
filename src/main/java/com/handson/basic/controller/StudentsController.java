@@ -1,4 +1,4 @@
-package conroller;
+package com.handson.basic.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
